@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\bin\Debug\AnketMiniProje.exe.config
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\bin\Debug\AnketMiniProje.exe
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\bin\Debug\AnketMiniProje.pdb
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.Form1.resources
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.Properties.Resources.resources
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.exe
+C:\Users\User\source\repos\AnketMiniProje\AnketMiniProje\obj\Debug\AnketMiniProje.pdb
